@@ -1,4 +1,8 @@
-Business Case – Credit Cards
+                                                                                                        Business Case – Credit Cards
+
+
+
+
 There is a regulatory measure under which banks are supposed to maintain a certain proportion of the deposits as reserves so that if all the borrowers default on the payments, the customers who have deposited the money in the bank do not suffer.
 The banks are always at risk as a customer may or may not make the payments against the amount that he or she has borrowed. Therefore, banks should always be prepared for the case when a person defaults.
 Banks should be able to serve their existing and new customers, even if multiple customers default.
