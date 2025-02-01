@@ -36,6 +36,7 @@ Due Amount – The outstanding loan balance.
 # 🔄 Step-by-Step Model Building Process
 
 Step 1: Define the Problem Statement
+
 ✔ Predicting the due amount of a customer based on financial indicators.
 
 Step 2: Selecting Relevant Variables
